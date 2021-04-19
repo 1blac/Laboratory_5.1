@@ -1,0 +1,5 @@
+﻿  Rational.cpp
+D:\ООП\Лабораторні 5\Laboratory_5.1_B\Rational.cpp(24,71): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+D:\ООП\Лабораторні 5\Laboratory_5.1_B\Rational.cpp(25,1): warning C5043: 'Rational::Read': exception specification does not match previous declaration
+D:\ООП\Лабораторні 5\Laboratory_5.1_B\Rational.h(14): message : see declaration of 'Rational::Read'
+  Laboratory_5.1_B.vcxproj -> D:\ООП\Лабораторні 5\Laboratory_5.1_B\Debug\Laboratory_5.1_B.exe

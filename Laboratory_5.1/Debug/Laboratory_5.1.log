@@ -1,0 +1,8 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(491,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Laboratory_5.1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Line.cpp
+D:\ООП\Лабораторні 5\Laboratory_5.1\Line.cpp(85,65): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+D:\ООП\Лабораторні 5\Laboratory_5.1\Line.cpp(86,1): warning C5043: 'operator >>': exception specification does not match previous declaration
+D:\ООП\Лабораторні 5\Laboratory_5.1\Line.h(28): message : see declaration of 'operator >>'
+  Source.cpp
+  Generating Code...
+  Laboratory_5.1.vcxproj -> D:\ООП\Лабораторні 5\Laboratory_5.1\Debug\Laboratory_5.1_A.exe
