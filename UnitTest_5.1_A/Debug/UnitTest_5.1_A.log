@@ -1,0 +1,5 @@
+﻿  pch.cpp
+  UnitTest_5.1_A.cpp
+D:\ООП\Лабораторні 5\Laboratory_5.1\Line.cpp(84,78): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+     Creating library D:\ООП\Лабораторні 5\Laboratory_5.1\Debug\UnitTest_5.1_A.lib and object D:\ООП\Лабораторні 5\Laboratory_5.1\Debug\UnitTest_5.1_A.exp
+  UnitTest_5.1_A.vcxproj -> D:\ООП\Лабораторні 5\Laboratory_5.1\Debug\UnitTest_5.1_A.dll
