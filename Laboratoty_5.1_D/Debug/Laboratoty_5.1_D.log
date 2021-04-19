@@ -1,0 +1,8 @@
+﻿  Rational.cpp
+D:\ООП\Лабораторні 5\Laboratoty_5.1_D\Rational.cpp(24,71): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+D:\ООП\Лабораторні 5\Laboratoty_5.1_D\Rational.cpp(25,1): warning C5043: 'Rational::Read': exception specification does not match previous declaration
+D:\ООП\Лабораторні 5\Laboratoty_5.1_D\Rational.h(13): message : see declaration of 'Rational::Read'
+D:\ООП\Лабораторні 5\Laboratoty_5.1_D\Rational.cpp(51,100): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+D:\ООП\Лабораторні 5\Laboratoty_5.1_D\Rational.cpp(52,1): warning C5043: 'Rational::Rational': exception specification does not match previous declaration
+D:\ООП\Лабораторні 5\Laboratoty_5.1_D\Rational.h(22): message : see declaration of 'Rational::Rational'
+  Laboratoty_5.1_D.vcxproj -> D:\ООП\Лабораторні 5\Laboratoty_5.1_D\Debug\Laboratoty_5.1_D.exe
