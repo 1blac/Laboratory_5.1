@@ -1,0 +1,4 @@
+﻿  Source.cpp
+D:\ООП\Лабораторні 5\Laboratory_5.3\A.h(12): warning C4715: 'A::operator=': not all control paths return a value
+D:\ООП\Лабораторні 5\Laboratory_5.3\B.h(16): warning C4715: 'B::operator=': not all control paths return a value
+  Laboratory_5.3.vcxproj -> D:\ООП\Лабораторні 5\Laboratory_5.3\Debug\Laboratory_5.3.exe
