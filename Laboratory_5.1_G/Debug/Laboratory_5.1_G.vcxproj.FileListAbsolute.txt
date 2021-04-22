@@ -1,0 +1,2 @@
+D:\ООП\Лабораторні 5\Laboratory_5.1_G\Debug\Laboratory_5.1_G.exe
+D:\ООП\Лабораторні 5\Laboratory_5.1_G\Debug\Laboratory_5.1_G.pdb
