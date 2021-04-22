@@ -1,0 +1,10 @@
+﻿  Student_private.cpp
+D:\ООП\Лабораторні 5\Laboratory_5.1_F\Student_private.cpp(58,117): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+D:\ООП\Лабораторні 5\Laboratory_5.1_F\Student_private.cpp(59,1): warning C5043: 'operator >>': exception specification does not match previous declaration
+D:\ООП\Лабораторні 5\Laboratory_5.1_F\Student_private.h(26): message : see declaration of 'operator >>'
+  Student_public.cpp
+D:\ООП\Лабораторні 5\Laboratory_5.1_F\Student_public.cpp(72,116): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+D:\ООП\Лабораторні 5\Laboratory_5.1_F\Student_public.cpp(73,1): warning C5043: 'operator >>': exception specification does not match previous declaration
+D:\ООП\Лабораторні 5\Laboratory_5.1_F\Student_public.h(26): message : see declaration of 'operator >>'
+  Generating Code...
+  Laboratory_5.1_F.vcxproj -> D:\ООП\Лабораторні 5\Laboratory_5.1_F\Debug\Laboratory_5.1_F.exe
