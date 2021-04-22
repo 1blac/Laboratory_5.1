@@ -1,0 +1,5 @@
+﻿  UnitTest_5.1_E.cpp
+D:\ООП\Лабораторні 5\Laboratory_5_1_E\Rational.cpp(24,86): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+D:\ООП\Лабораторні 5\Laboratory_5_1_E\Rational.cpp(56,113): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+     Creating library D:\ООП\Лабораторні 5\Laboratory_5_1_E\Debug\UnitTest_5.1_E.lib and object D:\ООП\Лабораторні 5\Laboratory_5_1_E\Debug\UnitTest_5.1_E.exp
+  UnitTest_5.1_E.vcxproj -> D:\ООП\Лабораторні 5\Laboratory_5_1_E\Debug\UnitTest_5.1_E.dll
